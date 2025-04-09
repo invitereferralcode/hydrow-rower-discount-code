@@ -28,7 +28,7 @@
 <h2>How to Use the Hydrow Discount Code</h2>
 <p>It’s easy to redeem your <strong>$250 discount</strong> on your Hydrow Rower. Just follow these steps:</p>
 <ol>
-    <li><strong>Visit the Hydrow Website</strong> – Go to <a href="https://hydrow.com" target="_blank">hydrow.com</a>.</li>
+    <li><strong>Visit the Hydrow Website</strong> – Go to <a href="https://urlli.com/hydrow250off" target="_blank"><strong>Hydrow</strong></a>.</li>
     <li><strong>Select Your Rower</strong> – Choose the Hydrow Rower that best suits your space and needs.</li>
     <li><strong>Apply Discount Code</strong> – Enter the code during checkout to instantly receive $250 off.</li>
     <li><strong>Complete Your Order</strong> – Enjoy your new rower and access to professional training from day one.</li>
